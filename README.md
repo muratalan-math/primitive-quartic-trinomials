@@ -107,7 +107,7 @@ OVERALL: PASS
 
 ## Certificate data
 
-The certificate datasets are archived separately on Zenodo. The Git repository contains the code, verification tools, and documentation needed to reproduce and validate them.
+The certificate datasets will be archived separately on Zenodo. The Git repository contains the code, verification tools, and documentation needed to reproduce and validate them.
 
 Zenodo DOI: **TO BE ADDED AFTER DEPOSIT**
 
