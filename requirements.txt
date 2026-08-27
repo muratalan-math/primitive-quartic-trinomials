@@ -1,0 +1,6 @@
+# No third-party dependencies.
+#
+# All programs use the Python 3 standard library only (tested on Python 3.8+).
+# Primality: deterministic Miller-Rabin, first twelve prime bases {2,3,5,...,37}.
+# Factorisation: Pollard's rho with certified prime factors.
+# Irreducibility: certified via element orders (no external routine needed).
