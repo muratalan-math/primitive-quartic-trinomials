@@ -1,0 +1,23 @@
+# Full sweep outputs (large; archive on Zenodo, not git)
+result/
+results/
+zenodo_upload/
+*.done
+
+# Local integrity/build products
+RUN_ALL_INTEGRITY_REPORT.txt
+MANIFEST_SHA256_ALL.txt
+MANIFEST_SHA256_ZENODO.txt
+ZENODO_FILE_LIST.txt
+ZENODO_ARCHIVE_SHA256.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
