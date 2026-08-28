@@ -6,7 +6,7 @@
   "license": "MIT",
   "creators": [
     {"name": "Alan, Murat", "affiliation": "Yildiz Technical University", "orcid": "0000-0003-2031-2725"},
-    {"name": "Alan, Kadriye Şimşek", "affiliation": "Yildiz Technical University", "orcid": "0000-0001-6751-8013"}
+    {"name": "Şimşek Alan, Kadriye", "affiliation": "Yildiz Technical University", "orcid": "0000-0001-6751-8013"}
   ],
   "keywords": ["finite fields", "primitive polynomials", "primitive trinomials", "character sums", "certified computation"],
   "version": "1.0.0",
