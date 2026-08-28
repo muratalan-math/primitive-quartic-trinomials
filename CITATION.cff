@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this computational artifact, please cite the archived software/data record."
+message: "If you use this computational artifact, please cite the archived dataset and this software repository."
 title: "Primitive quartic trinomials over finite fields — computational artifacts"
 type: software
 authors:
@@ -14,6 +14,10 @@ authors:
 license: MIT
 version: "1.0.0"
 repository-code: "https://github.com/muratalan-math/primitive-quartic-trinomials"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22135054"
+    description: "Archived computational dataset"
 keywords:
   - finite fields
   - primitive polynomials
