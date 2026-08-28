@@ -74,4 +74,4 @@ All pseudo-random choices are seeded deterministically by `q`, so individual fie
 
 ## Zenodo
 
-Final dataset DOI: **TO BE ADDED AFTER DEPOSIT**.
+Dataset DOI: **10.5281/zenodo.22135054**.
