@@ -2,7 +2,7 @@
 
 Computational code, exact verification tools, integrity checks, and archival metadata for certified computations concerning primitive quartic trinomials over finite fields.
 
-Authors: **Murat Alan** and **Kadriye Şimşek Alan**.
+Authors: **Murat Alan** and **Kadriye Simsek Alan**.
 
 ## Main computational result
 
@@ -109,7 +109,8 @@ OVERALL: PASS
 
 The certificate datasets are archived separately on Zenodo. The Git repository contains the code, verification tools, and documentation needed to reproduce and validate them.
 
-Zenodo dataset DOI: **10.5281/zenodo.22135054**
+Zenodo version DOI (v1.0.0): **10.5281/zenodo.22135054**  
+Zenodo concept DOI (all versions): **10.5281/zenodo.22135053**
 
 ## Licensing
 
