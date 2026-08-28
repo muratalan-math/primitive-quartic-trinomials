@@ -7,7 +7,7 @@ authors:
     given-names: Murat
     orcid: "https://orcid.org/0000-0003-2031-2725"
     affiliation: "Yildiz Technical University"
-  - family-names: "Şimşek Alan"
+  - family-names: "Simsek Alan"
     given-names: Kadriye
     orcid: "https://orcid.org/0000-0001-6751-8013"
     affiliation: "Yildiz Technical University"
@@ -17,7 +17,10 @@ repository-code: "https://github.com/muratalan-math/primitive-quartic-trinomials
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22135054"
-    description: "Archived computational dataset"
+    description: "Archived computational dataset, version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.22135053"
+    description: "Zenodo concept DOI for all dataset versions"
 keywords:
   - finite fields
   - primitive polynomials
