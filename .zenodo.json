@@ -6,7 +6,7 @@
   "license": "MIT",
   "creators": [
     {"name": "Alan, Murat", "affiliation": "Yildiz Technical University", "orcid": "0000-0003-2031-2725"},
-    {"name": "Şimşek Alan, Kadriye", "affiliation": "Yildiz Technical University", "orcid": "0000-0001-6751-8013"}
+    {"name": "Simsek Alan, Kadriye", "affiliation": "Yildiz Technical University", "orcid": "0000-0001-6751-8013"}
   ],
   "keywords": ["finite fields", "primitive polynomials", "primitive trinomials", "character sums", "certified computation"],
   "version": "1.0.0",
@@ -14,6 +14,11 @@
     {
       "identifier": "10.5281/zenodo.22135054",
       "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22135053",
+      "relation": "isVersionOf",
       "scheme": "doi"
     }
   ]
