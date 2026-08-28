@@ -9,5 +9,12 @@
     {"name": "Alan, Kadriye Şimşek", "affiliation": "Yildiz Technical University", "orcid": "0000-0001-6751-8013"}
   ],
   "keywords": ["finite fields", "primitive polynomials", "primitive trinomials", "character sums", "certified computation"],
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22135054",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
 }
